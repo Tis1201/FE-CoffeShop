@@ -12,14 +12,14 @@
       <h1
         class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-white"
       >
-        We invest in the
+        We serve
         <span
           class="underline underline-offset-3 decoration-8 decoration-amber-600 dark:decoration-amber-800"
-          >world’s potential</span
+          >the best coffee</span
         >
       </h1>
       <p class="text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
-        Here at Flowbite we focus on markets where technology, innovation, and capital can unlock
+        Here at VuTam we focus on markets where technology, innovation, and capital can unlock
         long-term value and drive economic growth.
       </p>
     </div>

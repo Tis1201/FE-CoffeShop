@@ -14,7 +14,7 @@ async function efetch(url, options = {}) {
 }
 
 function makeCoffeeService() {
-  const baseUrl = 'http://localhost:3000/api/v1/products';
+  const baseUrl = 'https://be-coffeeshop.onrender.com/api/v1/products';
   async function getCoffees(page, limit = 12) {
     let url = `${baseUrl}?page=${page}&limit=${limit}`;
     const data = await efetch(url);

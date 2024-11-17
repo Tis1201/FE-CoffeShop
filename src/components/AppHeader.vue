@@ -2,9 +2,9 @@
   <nav class="border-gray-200 dark:bg-gray-900 bg-coffe2">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <h1 class="flex items-center text-5xl font-extrabold dark:text-white text-white">
-        Flowbite<span
+        VuTam<span
           class="bg-blue-100 text-blue-800 text-2xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2"
-          >PRO</span
+          >Coffee</span
         >
       </h1>
 

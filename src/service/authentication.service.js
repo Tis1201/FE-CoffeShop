@@ -14,7 +14,7 @@ async function efetch(url, options = {}) {
 }
 
 function makeAuthenticationService() {
-  const baseUrl = 'http://localhost:3000/api/customers';
+  const baseUrl = 'https://be-coffeeshop.onrender.com/api/customers';
   async function register(customer) {
     let url = `${baseUrl}/register`;
     return await efetch(url, {

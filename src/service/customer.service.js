@@ -14,7 +14,7 @@ async function efetch(url, options = {}) {
 }
 
 function makeCustomerService() {
-  const baseUrl = 'http://localhost:3000/api/customers';
+  const baseUrl = 'https://be-coffeeshop.onrender.com/api/customers';
   async function getCustomers(page, limit = 12) {
     let url = `${baseUrl}?page=${page}&limit=${limit}`;
     const data = await efetch(url, {
