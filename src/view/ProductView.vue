@@ -3,7 +3,7 @@
     <AppHeader />
     <div class="mb-20">
       <img
-        src="https://media.discordapp.net/attachments/1162425838206189662/1305829086903668797/image.png?ex=6735c51b&is=6734739b&hm=bb5345a8f6fbaee9f4cf90c8a5a6ab4935914a89c588805e67d1ddf9b65377ee&=&format=webp&quality=lossless&width=696&height=473"
+        src="https://i.pinimg.com/736x/b7/c6/63/b7c6635d718443594fcd99a6b2feef1d.jpg"
         alt="Order"
         class="w-full h-[300px]"
       />
