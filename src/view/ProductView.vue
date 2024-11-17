@@ -3,7 +3,7 @@
     <AppHeader />
     <div class="mb-20">
       <img
-        src="https://i.pinimg.com/736x/b7/c6/63/b7c6635d718443594fcd99a6b2feef1d.jpg"
+        src="/img/bannerpro.png"
         alt="Order"
         class="w-full h-[300px]"
       />
@@ -117,7 +117,7 @@
       :selectedIndex="selectedIndex"
     />
   </div>
-  <div class="flex justify-center items-center mt-10 ">
+  <div class="flex justify-center items-center mt-10">
     <MainPagination
       :totalPages="totalPages"
       :current-page="currentPage"
